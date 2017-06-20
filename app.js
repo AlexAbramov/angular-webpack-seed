@@ -278,7 +278,7 @@ module.exports = "<div class=\"seed-component\">\r\n    <h2>About</h2>\r\n    <p
 /***/ 361:
 /***/ (function(module, exports) {
 
-module.exports = "<main>\r\n    <h1>App component</h1>\r\n    <nav>\r\n        <span>Navigation:</span>\r\n        <a routerLink=\"/snappy\" routerLinkActive=\"active\">Snappy</a>\r\n        <a routerLink=\"/lazy\" routerLinkActive=\"active\">Lazy</a>\r\n        <a routerLink=\"/about\" routerLinkActive=\"active\">About</a>\r\n    </nav>\r\n    <table style=\"width: 100%;\">\r\n        <tr>\r\n            <td>\r\n                <router-outlet></router-outlet>\r\n            </td>\r\n            <td style=\"width:300px;\">\r\n                <log></log>\r\n            </td>\r\n        </tr>\r\n    </table>\r\n</main>\r\n<footer>\r\n    <a href=\"https://github.com/AlexAbramov/ng2-webpack-vscode-seed\" target=\"_blank\">GitHub</a>\r\n</footer>";
+module.exports = "<main>\r\n    <h1>App component</h1>\r\n    <nav>\r\n        <span>Navigation:</span>\r\n        <a routerLink=\"/snappy\" routerLinkActive=\"active\">Snappy</a>\r\n        <a routerLink=\"/lazy\" routerLinkActive=\"active\">Lazy</a>\r\n        <a routerLink=\"/about\" routerLinkActive=\"active\">About</a>\r\n    </nav>\r\n    <table style=\"width: 100%;\">\r\n        <tr>\r\n            <td>\r\n                <router-outlet></router-outlet>\r\n            </td>\r\n            <td style=\"width:300px;\">\r\n                <log></log>\r\n            </td>\r\n        </tr>\r\n    </table>\r\n</main>\r\n<footer>\r\n    <a href=\"https://github.com/AlexAbramov/angular-webpack-seed\" target=\"_blank\">GitHub</a>\r\n</footer>";
 
 /***/ }),
 
