@@ -1,0 +1,14 @@
+main{ 
+    background: lightblue;
+    padding: 10px;
+    margin: 10px;
+}
+
+a{
+    margin-left: 10px;
+}
+
+footer > a{
+    color: gray;
+    margin-left: 10px;
+}
